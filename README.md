@@ -1,4 +1,3 @@
-README — togglemaster-flag
 # ToggleMaster Flag Service
 
 Microsserviço responsável pelo gerenciamento de Feature Flags.
