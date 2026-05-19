@@ -1,4 +1,6 @@
+# README — `togglemaster-flag`
 
+```md id="w3p2jk"
 # ToggleMaster Flag Service
 
 Microsserviço responsável pelo gerenciamento de Feature Flags.
@@ -21,7 +23,7 @@ Microsserviço responsável pelo gerenciamento de Feature Flags.
 
 ## Execução local
 
-
+```bash
 go run cmd/main.go
 Endpoint de Health Check
 GET /health
