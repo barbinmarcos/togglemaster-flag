@@ -1,6 +1,4 @@
-# README — `togglemaster-flag`
-
-```md id="w3p2jk"
+README — togglemaster-flag
 # ToggleMaster Flag Service
 
 Microsserviço responsável pelo gerenciamento de Feature Flags.
